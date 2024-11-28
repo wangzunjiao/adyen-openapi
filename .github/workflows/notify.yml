@@ -2,7 +2,7 @@ name: Notify libraries
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   workflow_dispatch:
 
 jobs:
