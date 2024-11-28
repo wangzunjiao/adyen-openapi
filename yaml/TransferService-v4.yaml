@@ -4,7 +4,7 @@ servers:
 info:
   version: '4'
   x-publicVersion: true
-  title: Transfers API
+  title: Transfers
   description: ">Versions 1 and 2 of the Transfers API are deprecated. If you are\
     \ just starting your implementation, use the latest version.\n\nThe Transfers\
     \ API provides endpoints that you can use to transfer funds, whether when paying\
